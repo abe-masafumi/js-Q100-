@@ -1,5 +1,6 @@
 'use strict';
 {
+  // 1.
   // 整数の入力値aとbを比較し大きい方の値を出力するcompareNumbers()関数を作成してください．aとbが等しい場合はeqと出力して下さい．
   function compareNumbers(a, b) {
     if (a < b) {
